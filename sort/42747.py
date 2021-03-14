@@ -7,4 +7,4 @@ def solution(citations):
     while answer < n and citations[answer] >= answer+1:
         answer += 1
     
-    return answer
+    return str(int(answer))
