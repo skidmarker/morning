@@ -5,4 +5,4 @@ def solution(numbers):
     
     for i in numbers:
         answer += i
-    return answer
+    return str(int(answer))
