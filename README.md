@@ -29,7 +29,7 @@
 ## 3주차
 ### 힙
 
-- LEVEL 2 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42577) / [code](heap/42626.py)
+- LEVEL 2 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) / [code](heap/42626.py)
 - LEVEL 3 [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) / [code](heap/42627.py)
 - LEVEL 3 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) / [code](heap/42628.py)
 
