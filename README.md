@@ -22,3 +22,19 @@
 - LEVEL 2 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) / [code](stack_queue/42584.py)
 - LEVEL 2 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) / [code](stack_queue/42586.py)
 - LEVEL 2 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) / [code](stack_queue/42587.py)
+
+
+
+
+## 3주차
+### 힙
+
+- LEVEL 2 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) / [code](heap/42626.py)
+- LEVEL 3 [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) / [code](heap/42627.py)
+- LEVEL 3 [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) / [code](heap/42628.py)
+
+### 완전탐색
+
+- LEVEL 1 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / [code](brute_force_search/42840.py)
+- LEVEL 2 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) / [code](brute_force_search/42839.py)
+- LEVEL 2 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) / [code](brute_force_search/42842.py)
