@@ -24,8 +24,6 @@
 - LEVEL 2 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) / [code](stack_queue/42587.py)
 
 
-
-
 ## 3주차
 ### 힙
 
@@ -38,3 +36,14 @@
 - LEVEL 1 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / [code](brute_force_search/42840.py)
 - LEVEL 2 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) / [code](brute_force_search/42839.py)
 - LEVEL 2 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) / [code](brute_force_search/42842.py)
+
+
+## 4주차
+### 탐욕법
+
+- LEVEL 1 [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / [code](greedy/42862.py)
+- LEVEL 2 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) / [code](greedy/42860.py)
+- LEVEL 2 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) / [code](greedy/42883.py)
+- LEVEL 2 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) / [code](greedy/42885.py)
+- LEVEL 3 [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) / [code](greedy/42861.py)
+- LEVEL 3 [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) / [code](greedy/42884.py)
