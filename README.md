@@ -52,7 +52,7 @@
 ## 5주차
 ### 깊이/너비 우선 탐색
 
-- LEVEL 2 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) / [code](bfs_dfs/타겟 넘버.py)
+- LEVEL 2 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) / [code](bfs_dfs/타겟%20넘버.py)
 - LEVEL 3 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) / [code](bfs_dfs/네트워크.py)
-- LEVEL 3 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) / [code](bfs_dfs/단어 변환.py)
+- LEVEL 3 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) / [code](bfs_dfs/단어%20변환.py)
 - LEVEL 3 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) / [code](bfs_dfs/여행경로.py)
