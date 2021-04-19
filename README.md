@@ -47,3 +47,12 @@
 - LEVEL 2 [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) / [code](greedy/42885.py)
 - LEVEL 3 [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) / [code](greedy/42861.py)
 - LEVEL 3 [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) / [code](greedy/42884.py)
+
+
+## 5주차
+### 깊이/너비 우선 탐색
+
+- LEVEL 2 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) / [code](bfs_dfs/타겟%20넘버.py)
+- LEVEL 3 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) / [code](bfs_dfs/네트워크.py)
+- LEVEL 3 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) / [code](bfs_dfs/단어%20변환.py)
+- LEVEL 3 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) / [code](bfs_dfs/여행경로.py)
