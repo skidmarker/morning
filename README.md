@@ -56,3 +56,14 @@
 - LEVEL 3 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) / [code](bfs_dfs/네트워크.py)
 - LEVEL 3 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) / [code](bfs_dfs/단어%20변환.py)
 - LEVEL 3 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) / [code](bfs_dfs/여행경로.py)
+
+
+## 6주차
+### 이분탐색
+
+- LEVEL 3 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) / [code](binary_search/입국심사.py)
+
+### 그래프
+
+- LEVEL 3 [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) / [code](graph/가장%20먼%20노드.py)
+- LEVEL 3 [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) / [code](binary_search/순위.py)
