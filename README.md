@@ -67,3 +67,11 @@
 
 - LEVEL 3 [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) / [code](graph/가장%20먼%20노드.py)
 - LEVEL 3 [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) / [code](graph/순위.py)
+
+
+## 7주차
+### 동적계획법
+
+- LEVEL 3 [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) / [code](dp/N으로%20표현.py)
+- LEVEL 3 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) / [code](dp/정수%20삼각형.py)
+- LEVEL 3 [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) / [code](dp/등굣길.py)
