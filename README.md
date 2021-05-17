@@ -75,3 +75,15 @@
 - LEVEL 3 [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) / [code](dp/N으로%20표현.py)
 - LEVEL 3 [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) / [code](dp/정수%20삼각형.py)
 - LEVEL 3 [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) / [code](dp/등굣길.py)
+
+## 8주차
+### Baekjoon 문제집 - 카카오 블라인드 2020 기출문제
+- Silver3 [단축키 지정](https://www.acmicpc.net/problem/1283)
+- Gold5 [추월](https://www.acmicpc.net/problem/2002) / [code](week8/2002.py)
+- Gold5 [Auto-Complete] (https://www.acmicpc.net/problem/9991)
+- Gold5 [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) / [code](week8/15922.py)
+- Gold3 [내일로 여행](https://www.acmicpc.net/problem/13168)
+
+## 9주차
+### 엘리스(elice) 코딩 모의테스트 A
+- 회문 피하기 / [code](week9/회문%20피하기.py)
