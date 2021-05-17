@@ -80,7 +80,7 @@
 ### Baekjoon 문제집 - 카카오 블라인드 2020 기출문제
 - Silver3 [단축키 지정](https://www.acmicpc.net/problem/1283)
 - Gold5 [추월](https://www.acmicpc.net/problem/2002) / [code](week8/2002.py)
-- Gold5 [Auto-Complete] (https://www.acmicpc.net/problem/9991)
+- Gold5 [Auto-Complete](https://www.acmicpc.net/problem/9991)
 - Gold5 [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) / [code](week8/15922.py)
 - Gold3 [내일로 여행](https://www.acmicpc.net/problem/13168)
 
